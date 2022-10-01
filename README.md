@@ -11,4 +11,5 @@ destacar que la creación de usuarios y la concesión de pedidos la realiza un u
 * .net Core (6) & C#. 
 * Utilizando el modelo M.V.C.
 * POO.
+* SQL Server.
 * Como punto extra: consume el API de Hacienda (https://api.hacienda.go.cr/status) 
