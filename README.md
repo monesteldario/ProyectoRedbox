@@ -1,4 +1,4 @@
-# Redbox
+# Redbox Distribuidora
 Fue un proyecto grupal desarrollado para un curso universitario el cual consiste en una plataforma que permite la administración de una comercializadora de ropa/zapatos al
 por mayor, además, permite a los clientes de la misma generar sus pedidos, verificar el estado en el que se encuentran (preparando, empacado, pagado, en ruta) así como
 observar los productos que el negocio tiene a disposición.
